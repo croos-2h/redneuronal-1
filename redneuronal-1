@@ -44,6 +44,12 @@ public class RedNeuronal1 {
         System.out.println("indique el algoritmo utilizado");
         String caracteristica6=objeto.nextLine();
 
+        System.out.println("gracias por la INFORMACION");
+        System.out.println("gracias por la INFORMACION");
+        System.out.println("gracias por la INFORMACION");
+        System.out.println("gracias por la INFORMACION");
+        System.out.println("gracias por la INFORMACION");
+
 
 
 
